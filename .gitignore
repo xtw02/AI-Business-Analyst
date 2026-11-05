@@ -1,0 +1,14 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Python cache / virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
